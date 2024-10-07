@@ -3,7 +3,8 @@
 You can test my model deployment at : 
 
 [Version 1] https://carpriceprediction-e8c8u4opn2xr6m93gi78ef.streamlit.app/
-[Version 2] https://python-st124973.ml.brain.cs.ait.ac.th/ 
+
+[Version 2] and [Version 3] https://python-st124973.ml.brain.cs.ait.ac.th/ 
 
 If you want to run in your local, just download Docker [here](https://www.docker.com/get-started/) and type
 
